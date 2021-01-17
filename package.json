@@ -1,0 +1,30 @@
+{
+  "name": "nodejs_sql",
+  "version": "1.0.0",
+  "description": "This is simple project of nodejs with sql database.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AminAlizadeh-m/nodejs-SQL.git"
+  },
+  "keywords": [
+    "nodeJs",
+    "sql",
+    "database",
+    "RESTFull",
+    "server"
+  ],
+  "author": "Amin Alizadeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AminAlizadeh-m/nodejs-SQL/issues"
+  },
+  "homepage": "https://github.com/AminAlizadeh-m/nodejs-SQL#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
